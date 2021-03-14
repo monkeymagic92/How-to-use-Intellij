@@ -14,3 +14,8 @@
 
 tomcat, spring boot 연동해서 화면 띄우고 
 
+
+## https://youtube.com/playlist?list=PLumVmq_uRGHgBrimIp2-7MCnoPUskVMnd - spring boot 실행
+## https://lts0606.tistory.com/249  -- spring boot mybatis 
+## https://bottom-to-top.tistory.com/38 -- html 파일 static 이 아닌 template에서 실행 하는법
+## https://seungwoo0429.tistory.com/23  -- mybatis 연동방법2 ( 위 방법과 이방법 적용해보기 )
