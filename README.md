@@ -12,7 +12,7 @@
 
 
 
-tomcat, spring boot 연동해서 화면 띄우고 
+tomcat, spring boot 연동해서 화면 띄우고   
     
     
 ### Spring boot 실행 (유튜브영상)
