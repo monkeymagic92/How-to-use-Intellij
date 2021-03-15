@@ -35,9 +35,11 @@ tomcat, spring boot 연동해서 화면 띄우고
 > File –>> Settings –>> Editor –>> General –>> Auto Impor 들어간후   
 > Add unambiguous imports on the fly, Optimize imports on the fly(for current project)  두개 체크하면 자동임포트 됨 
 > 
+> 하하하
 > 
    
    
+> ## 진행상황
 > ## 3.13 
 > Intellij ultimate 버전 1달 체험판 다운로드
 > 대학재학생, 졸업생경우 1년 무료버전 가능   
