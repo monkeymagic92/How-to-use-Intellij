@@ -36,7 +36,7 @@ tomcat, spring boot 연동해서 화면 띄우고
 > Add unambiguous imports on the fly, Optimize imports on the fly(for current project)  두개 체크하면 자동임포트 됨 
 > 
 > 
-> 2. maven, gradle 새로운 디펜던시 추가하면 화면 우측상단 주먹표시 (~maven change 어쩌고 클릭해야 적용됨)
+> 2. maven, gradle 새로운 디펜던시 추가하면 화면 우측상단 주먹표시(ctrl + shift + o) (~maven change 어쩌고 클릭해야 적용됨)
 >    
    
    
