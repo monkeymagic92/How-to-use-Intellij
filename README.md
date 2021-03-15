@@ -27,3 +27,12 @@ tomcat, spring boot 연동해서 화면 띄우고
     
 ### html 파일 static 이 아닌 template에서 실행 하는법 ( ex) /main/test.html 에서 .html 제거하는방법도 포함되어있음)
 ### https://bottom-to-top.tistory.com/38
+   
+   
+> ## 3.13 
+> Intellij ultimate 버전 1달 체험판 다운로드
+> 대학재학생, 졸업생경우 1년 무료버전 가능, 또는 체펌한 1달 무료버전 사용가능
+> Spring boot 활용해서 기본적인 정적컨텐츠 페이지 띄우기 완료
+
+> ## 3.14
+> 
