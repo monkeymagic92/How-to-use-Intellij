@@ -31,8 +31,9 @@ tomcat, spring boot 연동해서 화면 띄우고
    
 > ## 3.13 
 > Intellij ultimate 버전 1달 체험판 다운로드
-> 대학재학생, 졸업생경우 1년 무료버전 가능, 또는 체펌한 1달 무료버전 사용가능
-> Spring boot 활용해서 기본적인 정적컨텐츠 페이지 띄우기 완료
+> 대학재학생, 졸업생경우 1년 무료버전 가능   
+> 또는 체펌한 1달 무료버전 사용가능   
+> 톰캣 연동 Spring boot 활용해서 기본적인 정적컨텐츠 페이지 띄우기 완료   
 
 > ## 3.14
-> 
+> mybatis, mybatis-alias, mysql, Controller 매핑, gradle관련 정보 공부중
