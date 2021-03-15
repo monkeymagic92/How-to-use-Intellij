@@ -30,7 +30,7 @@ tomcat, spring boot 연동해서 화면 띄우고
    
    
    
-## 꿀팁
+## 메모
 > 1. Controller, RequestMapping, Mapper 등등 자동 임포트 하기   
 > File –>> Settings –>> Editor –>> General –>> Auto Impor 들어간후   
 > Add unambiguous imports on the fly, Optimize imports on the fly(for current project)  두개 체크하면 자동임포트 됨 
@@ -38,6 +38,11 @@ tomcat, spring boot 연동해서 화면 띄우고
 > 
 > 2. maven, gradle 새로운 디펜던시 추가하면 화면 우측상단 주먹표시(ctrl + shift + o) (~maven change 어쩌고 클릭해야 적용됨)
 >    
+>3. src > main > reousrce > [static] 폴더엔 정적 리소스들을 추가하였을 것이다.   
+    src > main > reousrce > [templates] 폴더도 확인할 수 있을 것인데 Thymeleaf(.html), Velocity(.vm)등과 관련된 파일만 동작하고
+    jsp 파일은 추가하여도 작동하지 않으니 참고 하자.
+
+
    
    
 > ## 진행상황
