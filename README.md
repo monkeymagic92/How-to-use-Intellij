@@ -32,8 +32,10 @@ tomcat, spring boot 연동해서 화면 띄우고
    
 ## 꿀팁
 > 1. Controller, RequestMapping, Mapper 등등 자동 임포트 하기
-> File –>> Settings –>> Editor –>> General –>> Auto Impor    들어간후
+> File –>> Settings –>> Editor –>> General –>> Auto Impor 들어간후   
 > Add unambiguous imports on the fly, Optimize imports on the fly(for current project)  두개 체크하면 자동임포트 됨 
+> 
+> 
    
    
 > ## 3.13 
